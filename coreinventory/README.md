@@ -1,6 +1,15 @@
 # 📦 CoreInventory — Full-Stack MERN IMS
 
 A production-ready, modular **Inventory Management System** built with the MERN stack.
+​A modular IMS designed to digitize stock operations and replace manual registers with real-time tracking.
+​Key Features
+​Inventory Dashboard: Real-time KPIs for Total Products, Low Stock, and Pending Deliveries.
+​Product Management: Create products with SKUs, categories, and units of measure.
+​Operations: Handle Receipts (incoming), Delivery Orders (outgoing), and Internal Transfers.
+​Stock Adjustments: Fix mismatches between recorded stock and physical counts.
+​Target Users
+​Inventory Managers: Managing stock flow.
+​Warehouse Staff: Handling transfers and counting.
 
 ## 🚀 Tech Stack
 
