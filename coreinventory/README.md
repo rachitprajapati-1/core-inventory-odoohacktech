@@ -138,3 +138,5 @@ npm run dev
 - Animated sidebar, real-time live badge
 - Color-coded stock status (In Stock / Low / Out)
 - Interactive Recharts dashboards
+
+___
